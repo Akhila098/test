@@ -1,0 +1,4 @@
+varOne=" Hello "
+varTwo=
+
+
